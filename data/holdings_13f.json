@@ -1,0 +1,566 @@
+{
+ "_note": "SEC 13F-HR information tables for Situational Awareness LP (CIK 2045724). Values in USD. pc = Put/Call/'' (common). Append a new filing at the end each quarter; scripts/fetch_build.py uses the last two.",
+ "aliases": {
+  "09173B107": "Bitfarms (BITF) -> Keel Infrastructure (KEEL), 1:1 share exchange, April 2026"
+ },
+ "filings": [
+  {
+   "period": "2026-03-31",
+   "filed": "2026-05-18",
+   "accession": "0002045724-26-000008",
+   "rows": [
+    {
+     "t": "SMH",
+     "n": "VanEck Semiconductor ETF",
+     "cusip": "92189F676",
+     "v": 2042716860,
+     "sh": 5327900,
+     "pc": "Put"
+    },
+    {
+     "t": "NVDA",
+     "n": "Nvidia",
+     "cusip": "67066G104",
+     "v": 1568257120,
+     "sh": 8992300,
+     "pc": "Put"
+    },
+    {
+     "t": "ORCL",
+     "n": "Oracle",
+     "cusip": "68389X105",
+     "v": 1072873230,
+     "sh": 7293000,
+     "pc": "Put"
+    },
+    {
+     "t": "AVGO",
+     "n": "Broadcom",
+     "cusip": "11135F101",
+     "v": 1006247961,
+     "sh": 3251100,
+     "pc": "Put"
+    },
+    {
+     "t": "AMD",
+     "n": "AMD",
+     "cusip": "007903107",
+     "v": 969160863,
+     "sh": 4764100,
+     "pc": "Put"
+    },
+    {
+     "t": "BE",
+     "n": "Bloom Energy",
+     "cusip": "093712107",
+     "v": 878707930,
+     "sh": 6485408,
+     "pc": ""
+    },
+    {
+     "t": "SNDK",
+     "n": "SanDisk",
+     "cusip": "80004C200",
+     "v": 724363205,
+     "sh": 1140119,
+     "pc": ""
+    },
+    {
+     "t": "MU",
+     "n": "Micron",
+     "cusip": "595112103",
+     "v": 583686168,
+     "sh": 1727700,
+     "pc": "Put"
+    },
+    {
+     "t": "CRWV",
+     "n": "CoreWeave",
+     "cusip": "21873S108",
+     "v": 556073385,
+     "sh": 7177919,
+     "pc": ""
+    },
+    {
+     "t": "TSM",
+     "n": "TSMC",
+     "cusip": "874039100",
+     "v": 535110030,
+     "sh": 1583400,
+     "pc": "Put"
+    },
+    {
+     "t": "ASML",
+     "n": "ASML",
+     "cusip": "N07059210",
+     "v": 494122503,
+     "sh": 374100,
+     "pc": "Put"
+    },
+    {
+     "t": "MU",
+     "n": "Micron",
+     "cusip": "595112103",
+     "v": 422300000,
+     "sh": 1250000,
+     "pc": "Call"
+    },
+    {
+     "t": "IREN",
+     "n": "IREN",
+     "cusip": "Q4982L109",
+     "v": 401036064,
+     "sh": 11698835,
+     "pc": ""
+    },
+    {
+     "t": "CORZ",
+     "n": "Core Scientific",
+     "cusip": "21874A106",
+     "v": 389086756,
+     "sh": 26008473,
+     "pc": ""
+    },
+    {
+     "t": "SNDK",
+     "n": "SanDisk",
+     "cusip": "80004C200",
+     "v": 388764546,
+     "sh": 611900,
+     "pc": "Call"
+    },
+    {
+     "t": "TSM",
+     "n": "TSMC",
+     "cusip": "874039100",
+     "v": 354847500,
+     "sh": 1050000,
+     "pc": "Call"
+    },
+    {
+     "t": "APLD",
+     "n": "Applied Digital",
+     "cusip": "038169207",
+     "v": 319978118,
+     "sh": 13478438,
+     "pc": ""
+    },
+    {
+     "t": "INTC",
+     "n": "Intel",
+     "cusip": "458140100",
+     "v": 159106302,
+     "sh": 3605400,
+     "pc": "Put"
+    },
+    {
+     "t": "RIOT",
+     "n": "Riot Platforms",
+     "cusip": "767292105",
+     "v": 142166413,
+     "sh": 11502137,
+     "pc": ""
+    },
+    {
+     "t": "CRWV",
+     "n": "CoreWeave",
+     "cusip": "21873S108",
+     "v": 140569315,
+     "sh": 1814500,
+     "pc": "Call"
+    },
+    {
+     "t": "CLSK",
+     "n": "CleanSpark",
+     "cusip": "18452B209",
+     "v": 104469943,
+     "sh": 12276139,
+     "pc": ""
+    },
+    {
+     "t": "SEI",
+     "n": "Solaris Energy Infra",
+     "cusip": "83418M103",
+     "v": 62474687,
+     "sh": 1105551,
+     "pc": ""
+    },
+    {
+     "t": "BE",
+     "n": "Bloom Energy",
+     "cusip": "093712107",
+     "v": 55347665,
+     "sh": 408500,
+     "pc": "Call"
+    },
+    {
+     "t": "TE",
+     "n": "T1 Energy",
+     "cusip": "35834F104",
+     "v": 43900000,
+     "sh": 10000000,
+     "pc": ""
+    },
+    {
+     "t": "KEEL",
+     "n": "Keel Infrastructure",
+     "cusip": "09173B107",
+     "v": 38757888,
+     "sh": 19875840,
+     "pc": ""
+    },
+    {
+     "t": "BTDR",
+     "n": "Bitdeer",
+     "cusip": "G11448100",
+     "v": 29751243,
+     "sh": 3439450,
+     "pc": ""
+    },
+    {
+     "t": "PSIX",
+     "n": "Power Solutions",
+     "cusip": "73933G202",
+     "v": 26318424,
+     "sh": 432300,
+     "pc": ""
+    },
+    {
+     "t": "GLW",
+     "n": "Corning",
+     "cusip": "219350105",
+     "v": 21020962,
+     "sh": 154600,
+     "pc": "Put"
+    },
+    {
+     "t": "WYFI",
+     "n": "WhiteFiber",
+     "cusip": "G96115103",
+     "v": 20933016,
+     "sh": 1757600,
+     "pc": ""
+    },
+    {
+     "t": "AMD",
+     "n": "AMD",
+     "cusip": "007903107",
+     "v": 20167643,
+     "sh": 99138,
+     "pc": ""
+    },
+    {
+     "t": "BW",
+     "n": "Babcock & Wilcox",
+     "cusip": "05614L209",
+     "v": 19888791,
+     "sh": 1353900,
+     "pc": ""
+    },
+    {
+     "t": "SHAZ",
+     "n": "SharonAI",
+     "cusip": "778920306",
+     "v": 18095535,
+     "sh": 796108,
+     "pc": ""
+    },
+    {
+     "t": "PUMP",
+     "n": "ProPetro",
+     "cusip": "74347M108",
+     "v": 13117423,
+     "sh": 910300,
+     "pc": ""
+    },
+    {
+     "t": "SMH",
+     "n": "VanEck Semiconductor ETF",
+     "cusip": "92189F676",
+     "v": 10332630,
+     "sh": 26950,
+     "pc": ""
+    },
+    {
+     "t": "INTC",
+     "n": "Intel",
+     "cusip": "458140100",
+     "v": 8929441,
+     "sh": 202344,
+     "pc": ""
+    },
+    {
+     "t": "TSM",
+     "n": "TSMC",
+     "cusip": "874039100",
+     "v": 7577853,
+     "sh": 22423,
+     "pc": ""
+    },
+    {
+     "t": "INFY",
+     "n": "Infosys",
+     "cusip": "456788108",
+     "v": 6755000,
+     "sh": 500000,
+     "pc": "Put"
+    },
+    {
+     "t": "HIVE",
+     "n": "HIVE Digital",
+     "cusip": "433921103",
+     "v": 6443939,
+     "sh": 3391547,
+     "pc": ""
+    },
+    {
+     "t": "ASML",
+     "n": "ASML",
+     "cusip": "N07059210",
+     "v": 6119405,
+     "sh": 4633,
+     "pc": ""
+    },
+    {
+     "t": "MU",
+     "n": "Micron",
+     "cusip": "595112103",
+     "v": 5865578,
+     "sh": 17362,
+     "pc": ""
+    },
+    {
+     "t": "GLW",
+     "n": "Corning",
+     "cusip": "219350105",
+     "v": 718330,
+     "sh": 5283,
+     "pc": ""
+    },
+    {
+     "t": "NVDA",
+     "n": "Nvidia",
+     "cusip": "67066G104",
+     "v": 497912,
+     "sh": 2855,
+     "pc": ""
+    }
+   ]
+  },
+  {
+   "period": "2026-06-30",
+   "filed": "2026-08-14",
+   "accession": "0000935836-26-000418",
+   "rows": [
+    {
+     "t": "SNDK",
+     "n": "SanDisk",
+     "cusip": "80004C200",
+     "v": 5673738513,
+     "sh": 2495344,
+     "pc": ""
+    },
+    {
+     "t": "MU",
+     "n": "Micron",
+     "cusip": "595112103",
+     "v": 5573819392,
+     "sh": 4828786,
+     "pc": ""
+    },
+    {
+     "t": "BE",
+     "n": "Bloom Energy",
+     "cusip": "093712107",
+     "v": 1898778982,
+     "sh": 6272808,
+     "pc": ""
+    },
+    {
+     "t": "TSM",
+     "n": "TSMC",
+     "cusip": "874039100",
+     "v": 1265099645,
+     "sh": 2649035,
+     "pc": ""
+    },
+    {
+     "t": "NBIS",
+     "n": "Nebius",
+     "cusip": "N97284108",
+     "v": 1232894684,
+     "sh": 4464260,
+     "pc": ""
+    },
+    {
+     "t": "CRWV",
+     "n": "CoreWeave",
+     "cusip": "21873S108",
+     "v": 744515203,
+     "sh": 7479558,
+     "pc": ""
+    },
+    {
+     "t": "CORZ",
+     "n": "Core Scientific",
+     "cusip": "21874A106",
+     "v": 665556824,
+     "sh": 26008473,
+     "pc": ""
+    },
+    {
+     "t": "STM",
+     "n": "STMicroelectronics",
+     "cusip": "861012102",
+     "v": 584344203,
+     "sh": 7802700,
+     "pc": ""
+    },
+    {
+     "t": "APLD",
+     "n": "Applied Digital",
+     "cusip": "038169207",
+     "v": 469022807,
+     "sh": 15384616,
+     "pc": ""
+    },
+    {
+     "t": "RIOT",
+     "n": "Riot Platforms",
+     "cusip": "767292105",
+     "v": 468198000,
+     "sh": 17100000,
+     "pc": ""
+    },
+    {
+     "t": "SHAZ",
+     "n": "SharonAI",
+     "cusip": "778920306",
+     "v": 456836112,
+     "sh": 5396127,
+     "pc": ""
+    },
+    {
+     "t": "IREN",
+     "n": "IREN",
+     "cusip": "Q4982L109",
+     "v": 433250547,
+     "sh": 9474099,
+     "pc": ""
+    },
+    {
+     "t": "CLSK",
+     "n": "CleanSpark",
+     "cusip": "18452B209",
+     "v": 178617822,
+     "sh": 12276139,
+     "pc": ""
+    },
+    {
+     "t": "KEEL",
+     "n": "Keel Infrastructure",
+     "cusip": "486917107",
+     "v": 151830996,
+     "sh": 26451393,
+     "pc": ""
+    },
+    {
+     "t": "SEI",
+     "n": "Solaris Energy Infra",
+     "cusip": "83418M103",
+     "v": 90889306,
+     "sh": 1129621,
+     "pc": ""
+    },
+    {
+     "t": "WYFI",
+     "n": "WhiteFiber",
+     "cusip": "G96115103",
+     "v": 68282760,
+     "sh": 1757600,
+     "pc": ""
+    },
+    {
+     "t": "BTDR",
+     "n": "Bitdeer",
+     "cusip": "G11448100",
+     "v": 54584072,
+     "sh": 3439450,
+     "pc": ""
+    },
+    {
+     "t": "TE",
+     "n": "T1 Energy",
+     "cusip": "35834F104",
+     "v": 46452000,
+     "sh": 4900000,
+     "pc": ""
+    },
+    {
+     "t": "BE",
+     "n": "Bloom Energy",
+     "cusip": "093712107",
+     "v": 44133660,
+     "sh": 145800,
+     "pc": "Call"
+    },
+    {
+     "t": "HIVE",
+     "n": "HIVE Digital",
+     "cusip": "433921103",
+     "v": 33246763,
+     "sh": 9133726,
+     "pc": ""
+    },
+    {
+     "t": "BW",
+     "n": "Babcock & Wilcox",
+     "cusip": "05614L209",
+     "v": 28587059,
+     "sh": 2027451,
+     "pc": ""
+    },
+    {
+     "t": "PUMP",
+     "n": "ProPetro",
+     "cusip": "74347M108",
+     "v": 28111878,
+     "sh": 1960382,
+     "pc": ""
+    },
+    {
+     "t": "TSM",
+     "n": "TSMC",
+     "cusip": "874039100",
+     "v": 23878500,
+     "sh": 50000,
+     "pc": "Call"
+    },
+    {
+     "t": "VSH",
+     "n": "Vishay",
+     "cusip": "928298108",
+     "v": 20167500,
+     "sh": 375000,
+     "pc": ""
+    },
+    {
+     "t": "INFY",
+     "n": "Infosys",
+     "cusip": "456788108",
+     "v": 5245000,
+     "sh": 500000,
+     "pc": "Put"
+    },
+    {
+     "t": "CBRS",
+     "n": "Cerebras",
+     "cusip": "15675D103",
+     "v": 2210000,
+     "sh": 10000,
+     "pc": ""
+    }
+   ]
+  }
+ ]
+}
